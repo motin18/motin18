@@ -23,7 +23,7 @@ Soy un apasionado de la tecnología con una base sólida en ingeniería electró
 
 ## 📫 Contacto Directo (Urgent Inquiries)
 - 📧 **Email:** bartolomoti@gmail.com
-- 💼 **LinkedIn:** 
+- 💼 **LinkedIn:** www.linkedin.com/in/eduardo-mottino-a71b2b354
 - 📍 **Ubicación:** Río Cuarto, Córdoba, Argentina (Disponibilidad Remota Inmediata)
 
 ---
